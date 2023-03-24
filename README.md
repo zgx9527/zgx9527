@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 我是zgx9527, 这是我第一个仓库
 
 <!--
 **zgx9527/zgx9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
